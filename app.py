@@ -12,3 +12,5 @@ if __name__ == "__main__":
     add_product("Laptop", 999)
     add_product("Mouse", 25)
     list_products(max_price=100)
+  
+  
